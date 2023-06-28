@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>reuleaux</name>
+  <name>reuleaux-noetic</name>
   <version>0.0.0</version>
   <description>reuleaux metapackage</description>
   <maintainer email="makhabhi@isu.edu">Abhijit Makhal</maintainer>
